@@ -22,14 +22,6 @@ I craft **visually stunning, interactive, and responsive** web experiences using
 
 ---
 
-## 🎨 What I Do  
-💡 Build **modern, fast, and scalable** websites   
-✨ Create **interactive animations** & **eye-catching UI**  
-🔧 **Optimize performance** for smooth user experiences  
-🚀 Stay **up-to-date** with the latest web trends  
-
----
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vidhii015&layout=compact&theme=radical)
 
 ---
