@@ -17,7 +17,7 @@ I craft **visually stunning, interactive, and responsive** web experiences using
 🔗 **Version Control & Deployment**  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)  
 
-🌐 **Other Skills**  
+🌐 **Content Management System**  
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white)  
 
 ---
