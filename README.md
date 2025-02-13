@@ -8,21 +8,14 @@ I craft **visually stunning, interactive, and responsive** web experiences using
 
 ## 🔧 Tech Stack & Skills  
 🎨 **Frontend Magic**  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)  
-![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white)  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)  ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white)  
 
 🎬 **Animations & Effects**  
-![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=flat&logo=greensock&logoColor=white)  
-![Particle.js](https://img.shields.io/badge/-Particle.js-000000?style=flat)  
-![Swiper.js](https://img.shields.io/badge/-Swiper.js-6332F6?style=flat)  
+![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=flat&logo=greensock&logoColor=white)  ![Particle.js](https://img.shields.io/badge/-Particle.js-000000?style=flat)  ![Swiper.js](https://img.shields.io/badge/-Swiper.js-6332F6?style=flat)  
 
 🔗 **Version Control & Deployment**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)  
 
 🌐 **Other Skills**  
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white)  
@@ -30,8 +23,8 @@ I craft **visually stunning, interactive, and responsive** web experiences using
 ---
 
 ## 🎨 What I Do  
-💡 Build **modern, fast, and scalable** web applications  
-✨ Create **interactive animations** & **eye-catching UIs**  
+💡 Build **modern, fast, and scalable** websites   
+✨ Create **interactive animations** & **eye-catching UI**  
 🔧 **Optimize performance** for smooth user experiences  
 🚀 Stay **up-to-date** with the latest web trends  
 
