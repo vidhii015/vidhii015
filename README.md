@@ -35,6 +35,5 @@ I craft **visually stunning, interactive, and responsive** web experiences using
 📩 **Email:** [vidhivekariya015@gmail.com](#)  
 💼 **LinkedIn:** [www.linkedin.com/in/vidhi-vekariya-07534a30a](#)  
 
----
 
 
