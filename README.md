@@ -1,8 +1,8 @@
-# 👋 Hey there, I'm [ Vidhi Vekariya ] !
+## 🌟 I'm *Vidhi Vekariya* , a Web Developer who loves crafting beautiful, interactive, and user-friendly websites.
 
 🚀 **Passionate Web Developer** | 🎨 **UI Enthusiast** | 🖥️ **Creative Coder**  
 
-I craft **visually stunning, interactive, and responsive** web experiences using modern technologies. Whether it's sleek designs, smooth animations, or pixel-perfect layouts - I bring ideas to life on the web! ✨  
+I enjoy bringing ideas to life with clean code, smooth animations, and modern design. Whether it's creating seamless user experiences or adding a touch of creativity with animations, I love making the web more engaging and fun! ✨
 
 ---
 
@@ -21,6 +21,7 @@ I craft **visually stunning, interactive, and responsive** web experiences using
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)  
 
 🌐 **Content Management System**  
+
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white)  
 
 ---
@@ -29,14 +30,10 @@ I craft **visually stunning, interactive, and responsive** web experiences using
 
 ---
 
-
-
----
-
 ## 🚀 Let's Connect!  
-🌍 **Portfolio:** [https://vidhii015.github.io/Portfolio/](#)  
+
 📩 **Email:** [vidhivekariya015@gmail.com](#)  
-💼 **LinkedIn:** [www.linkedin.com/in/vidhi-vekariya-07534a30a](#)  
+🌍 **LinkedIn:** [www.linkedin.com/in/vidhi-vekariya-07534a30a](#)  
 
 
 
