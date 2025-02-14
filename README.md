@@ -1,4 +1,4 @@
-## 🌟 I'm *Vidhi Vekariya* , a Web Developer who loves crafting beautiful, interactive, and user-friendly websites.
+## 🌟 I'm [ *Vidhi Vekariya* ] , a Web Developer who loves crafting beautiful, interactive, and user-friendly websites.
 
 🚀 **Passionate Web Developer** | 🎨 **UI Enthusiast** | 🖥️ **Creative Coder**  
 
